@@ -1,0 +1,6 @@
+# ninja log v5
+3584	3806	1780159041781764937	../../../../build/intermediates/cxx/Debug/582z4x4w/obj/arm64-v8a/libnitrocookies.so	6489cb4b39fb70f9
+3	3222	1780159041184918617	CMakeFiles/nitrocookies.dir/Users/larsavanitdev/Desktop/Dev/fast-creator-app2/native_package/react-native-nitro-cookies/nitrogen/generated/android/c++/JHybridNitroCookiesSpec.cpp.o	3e8a0f1f2b1cbeb2
+3	3584	1780159041542445876	CMakeFiles/nitrocookies.dir/Users/larsavanitdev/Desktop/Dev/fast-creator-app2/native_package/react-native-nitro-cookies/nitrogen/generated/shared/c++/HybridNitroCookiesSpec.cpp.o	109deebae4172f5
+3	1624	1780159039600688589	CMakeFiles/nitrocookies.dir/Users/larsavanitdev/Desktop/Dev/fast-creator-app2/native_package/react-native-nitro-cookies/nitrogen/generated/android/nitrocookiesOnLoad.cpp.o	9a1966e96deaa33c
+3	1105	1780159039082751373	CMakeFiles/nitrocookies.dir/src/main/cpp/cpp-adapter.cpp.o	fcb172a4fb75abc4

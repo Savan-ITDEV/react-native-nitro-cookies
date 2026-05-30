@@ -1,0 +1,6 @@
+/Users/larsavanitdev/Desktop/Dev/fast-creator-app2/native_package/react-native-nitro-cookies/android/.cxx/Debug/582z4x4w/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/ReactAndroid/ReactAndroidConfig.cmake
+/Users/larsavanitdev/Desktop/Dev/fast-creator-app2/native_package/react-native-nitro-cookies/android/.cxx/Debug/582z4x4w/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/ReactAndroid/ReactAndroidConfigVersion.cmake
+/Users/larsavanitdev/Desktop/Dev/fast-creator-app2/native_package/react-native-nitro-cookies/android/.cxx/Debug/582z4x4w/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/fbjni/fbjniConfig.cmake
+/Users/larsavanitdev/Desktop/Dev/fast-creator-app2/native_package/react-native-nitro-cookies/android/.cxx/Debug/582z4x4w/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/fbjni/fbjniConfigVersion.cmake
+/Users/larsavanitdev/Desktop/Dev/fast-creator-app2/native_package/react-native-nitro-cookies/android/.cxx/Debug/582z4x4w/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/react-native-nitro-modules/react-native-nitro-modulesConfig.cmake
+/Users/larsavanitdev/Desktop/Dev/fast-creator-app2/native_package/react-native-nitro-cookies/android/CMakeLists.txt

@@ -1,0 +1,3 @@
+/Users/larsavanitdev/Desktop/Dev/fast-creator-app2/native_package/react-native-nitro-cookies/android/.cxx/Debug/582z4x4w/arm64-v8a/CMakeFiles/nitrocookies.dir
+/Users/larsavanitdev/Desktop/Dev/fast-creator-app2/native_package/react-native-nitro-cookies/android/.cxx/Debug/582z4x4w/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/larsavanitdev/Desktop/Dev/fast-creator-app2/native_package/react-native-nitro-cookies/android/.cxx/Debug/582z4x4w/arm64-v8a/CMakeFiles/rebuild_cache.dir

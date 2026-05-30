@@ -1,0 +1,1 @@
+/Users/larsavanitdev/Desktop/Dev/fast-creator-app2/native_package/react-native-nitro-cookies/android/build/intermediates/cxx/Debug/582z4x4w/obj/arm64-v8a

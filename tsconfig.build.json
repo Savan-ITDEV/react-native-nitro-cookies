@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "declaration": true,
+    "noEmit": false,
+    "skipLibCheck": true
+  },
+  "exclude": [
+    "node_modules",
+    "lib",
+    "android",
+    "ios",
+    "nitrogen"
+  ]
+}

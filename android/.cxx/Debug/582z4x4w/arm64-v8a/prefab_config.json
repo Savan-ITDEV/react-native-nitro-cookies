@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "prefabPath": "/Users/larsavanitdev/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar",
+  "packages": [
+    "/Users/larsavanitdev/.gradle/caches/9.3.1/transforms/feac5e044f650314396de52fc1f7f8e4/transformed/react-android-0.85.3-debug/prefab",
+    "/Users/larsavanitdev/Desktop/Dev/fast-creator-app2/node_modules/react-native-nitro-modules/android/build/intermediates/prefab_package/debug/prefab",
+    "/Users/larsavanitdev/.gradle/caches/9.3.1/transforms/2d7568e2737cda9ffd09740170071dc4/transformed/fbjni-0.7.0/prefab"
+  ]
+}
